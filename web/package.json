@@ -69,7 +69,7 @@
     "handlebars": "^4.7.7",
     "justified-layout": "^4.1.0",
     "lodash-es": "^4.17.21",
-    "luxon": "^3.2.1",
+    "luxon": "^3.4.4",
     "maplibre-gl": "^3.6.0",
     "socket.io-client": "^4.6.1",
     "svelte-loading-spinners": "^0.3.4",
