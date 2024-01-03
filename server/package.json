@@ -80,7 +80,7 @@
     "sanitize-filename": "^1.6.3",
     "sharp": "^0.32.6",
     "thumbhash": "^0.1.1",
-    "typeorm": "^0.3.17",
+    "typeorm": "^0.3.18",
     "typesense": "^1.7.1",
     "ua-parser-js": "^1.0.35"
   },
